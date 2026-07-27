@@ -1,10 +1,12 @@
+
+![Birthday Template Preview](https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=next.js) ![React Three Fiber](https://img.shields.io/badge/React%20Three%20Fiber-9.6-blue?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=flat-square&logo=typescript) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4-06B6D4?style=flat-square&logo=tailwindcss)
+
 # 🎂 Interactive 3D Birthday Celebration Template
 
 **Transform ordinary birthdays into extraordinary digital experiences.**
 
 An immersive, production-ready birthday website template featuring stunning 3D graphics, cinematic animations, and personalization—all through a single configuration file. Built with modern web technologies for desktop, tablet, and mobile.
 
-![Birthday Template Preview](https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=next.js) ![React Three Fiber](https://img.shields.io/badge/React%20Three%20Fiber-9.6-blue?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=flat-square&logo=typescript) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4-06B6D4?style=flat-square&logo=tailwindcss)
 
 ---
 
