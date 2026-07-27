@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
 
-// If building on Vercel, VERCEL='1' is set, so we use root path ('') and native Next.js build.
-// If building on GitHub Actions for GitHub Pages, GITHUB_ACTIONS='true' is set, so we use '/Birthday' subpath.
+
+
 const isGitHubPages = process.env.GITHUB_ACTIONS === "true" && process.env.VERCEL !== "1";
 
 const nextConfig: NextConfig = {
