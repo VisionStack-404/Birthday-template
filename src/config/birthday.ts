@@ -14,7 +14,7 @@ export interface StoryChapter {
 }
 
 export interface BirthdayConfig {
-  // 1. Basic Information
+  // 1. Basic Info
   birthdayPerson: {
     name: string;
     nickname: string;
